@@ -8,4 +8,5 @@ scanners:
   - sast
 
 languages:
+  - python
   - javascript
